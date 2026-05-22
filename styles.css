@@ -1,10 +1,10 @@
 :root {
   --bg: #0a0a0a;
   --bg-alt: #0e0e0e;
-  --ink: #e8e2d4;
-  --ink-soft: #b9b3a6;
-  --ink-mute: #76716a;
-  --accent: #c9a96e;
+  --ink: #f3ede0;
+  --ink-soft: #ddd6c7;
+  --ink-mute: #9a948a;
+  --accent: #d8b878;
   --serif: "Cormorant Garamond", "EB Garamond", Georgia, serif;
   --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --measure: 62ch;
