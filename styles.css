@@ -227,6 +227,29 @@ section::before {
   margin-top: 2.5rem !important;
 }
 
+.commentary {
+  margin: 3rem 0 0;
+  padding: 1.75rem 0 0;
+  border-top: 1px solid rgba(201, 169, 110, 0.18);
+}
+
+.commentary-label {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  margin: 0 0 1rem !important;
+  font-weight: 500;
+}
+
+.commentary p:last-child {
+  font-size: 0.94em;
+  line-height: 1.7;
+  color: var(--ink-soft);
+  margin: 0;
+}
+
 /* ---------- Pledge ---------- */
 
 .pledge {
